@@ -1,5 +1,5 @@
 import XCTest
-@testable import SwiftWebVTT
+@testable import WebVTT
 
 class SwiftWebVTTTests: XCTestCase {
 
